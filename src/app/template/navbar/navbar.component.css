@@ -1,0 +1,14 @@
+.cadastrar {
+    font-weight: bold;
+    text-decoration: none;
+    color: #023047;
+}
+
+.cadastrar:hover {
+    color: #FFB703;
+}
+
+.fa-user {
+    font-size: 28px;
+    margin-right: 15px;
+}
