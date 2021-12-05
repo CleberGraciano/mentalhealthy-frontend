@@ -1,11 +1,13 @@
+.navbar {
+    background-image: linear-gradient(to right, #ecce7a, #fcca46);
+    color: 233D4D;
+    border: none;
+}
+
+
 .cadastrar {
     font-weight: bold;
     text-decoration: none;
-    color: #023047;
-}
-
-.cadastrar:hover {
-    color: #FFB703;
 }
 
 .fa-user {
