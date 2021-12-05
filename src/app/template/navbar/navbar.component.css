@@ -1,13 +1,24 @@
 .navbar {
     background-image: linear-gradient(to right, #ecce7a, #fcca46);
-    color: 233D4D;
+    color: rgb(53, 52, 52);
     border: none;
+    padding-bottom: 10px;
+
 }
 
+.navbar-nav a:hover {
+    font-weight: bold;
+}
 
-.cadastrar {
+.login{
+    font-size: 12px;
+}
+
+.cadastrar{
     font-weight: bold;
     text-decoration: none;
+    cursor: pointer;
+
 }
 
 .fa-user {
