@@ -1,0 +1,17 @@
+.pesquisar {
+    width: 100%;
+    height: 350px;
+    background-color: aqua;
+}
+
+#search {
+    width: 500px;
+}
+
+.fa-search {
+    margin-left: -40px;
+}
+
+.navbar {
+    margin-bottom: 150px;
+}
